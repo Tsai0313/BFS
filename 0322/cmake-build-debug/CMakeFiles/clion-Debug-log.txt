@@ -1,1 +1,0 @@
-"C:\Users\benso\AppData\Local\JetBrains\CLion 2024.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/benso/AppData/Local/JetBrains/CLion 2024.2.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\benso\Desktop\人工智慧概論\code\0322 -B C:\Users\benso\Desktop\人工智慧概論\code\0322\cmake-build-debug
