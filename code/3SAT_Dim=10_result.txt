@@ -1,0 +1,3 @@
+Solution found. Expanded nodes: 272
+Assignment: 1 0 0 1 0 0 1 0 1 0
+
